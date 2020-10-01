@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Archimedes11/burger/issues"
   },
-  "homepage": "https://github.com/Archimedes11/burger#readme"
+  "homepage": "https://github.com/Archimedes11/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
