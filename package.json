@@ -2,7 +2,7 @@
   "name": "burger",
   "version": "1.0.0",
   "description": "Eat-Da-Burger game",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/Archimedes11/burger#readme",
   "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
     "express": "^4.17.1",
     "express-handlebars": "^5.1.0",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
   }
 }
